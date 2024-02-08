@@ -1,0 +1,50 @@
+[
+  {
+    "artifactId": "kotlin-stdlib",
+    "excludes": [],
+    "groupId": "org.jetbrains.kotlin",
+    "versionName": "1.7.0"
+  },
+  {
+    "artifactId": "appcompat",
+    "excludes": [],
+    "groupId": "androidx.appcompat",
+    "versionName": "1.6.1"
+  },
+  {
+    "artifactId": "material",
+    "excludes": [],
+    "groupId": "com.google.android.material",
+    "versionName": "1.6.0"
+  },
+  {
+    "artifactId": "constraintlayout",
+    "excludes": [],
+    "groupId": "androidx.constraintlayout",
+    "versionName": "2.2.0-alpha13"
+  },
+  {
+    "artifactId": "barcode-scanning",
+    "excludes": [],
+    "groupId": "com.google.mlkit",
+    "versionName": "17.0.0"
+  },
+  {
+    "artifactId": "camera-camera2",
+    "excludes": [],
+    "groupId": "androidx.camera",
+    "versionName": "1.0.1"
+  },
+  {
+    "artifactId": "camera-lifecycle",
+    "excludes": [],
+    "groupId": "androidx.camera",
+    "versionName": "1.0.1"
+  },
+  {
+    "artifactId": "camera-view",
+    "excludes": [],
+    "groupId": "androidx.camera",
+    "versionName": "1.0.0-alpha28"
+  }
+]
